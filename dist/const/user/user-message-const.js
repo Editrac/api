@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.UPDATE_USER_SUCCESSFULL = exports.ADD_USER_SUCCESSFULL = exports.NO_PASSWORD = exports.SET_PASSWORD_SUCCESSFULL = exports.OTP_SENT = exports.OTP_EXPIRED = exports.INVALID_OTP = exports.INVALID_PASSWORD = exports.EXISTING_USER = exports.USER_NOT_FOUND = void 0;
+exports.USER_NOT_FOUND = 'User not found';
+exports.EXISTING_USER = 'User with email already exists';
+exports.INVALID_PASSWORD = 'Invalid password';
+exports.INVALID_OTP = 'Invalid OTP';
+exports.OTP_EXPIRED = 'OTP expired';
+exports.OTP_SENT = 'OTP sent successfully';
+exports.SET_PASSWORD_SUCCESSFULL = 'User password set successfully';
+exports.NO_PASSWORD = 'Password not set for user, click forgot password to set one.';
+exports.ADD_USER_SUCCESSFULL = 'User added successfully';
+exports.UPDATE_USER_SUCCESSFULL = 'User updated successfully';

@@ -1,0 +1,1 @@
+export const SEND_OTP_SUBJECT = 'Ediflo email verifcation';

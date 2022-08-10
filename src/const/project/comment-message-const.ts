@@ -1,0 +1,1 @@
+export const CREATE_VIDEO_COMMENT_SUCCESSFULL = 'Video comment created successfully';

@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.PROJECT_TEMPLATE_UPDATE_SUCCESS = exports.PROJECT_TEMPLATE_CREATE_SUCCESS = exports.PROJECT_TEMPLATE_NOT_FOUND = exports.UPDATE_ORGANISATION_SUCCESSFUL = exports.ORGANISATION_NOT_FOUND = exports.ORGANISATION_CREATE_SUCCESS = exports.ORGANISATION_EXISTS = void 0;
+exports.ORGANISATION_EXISTS = 'Organisation already exists';
+exports.ORGANISATION_CREATE_SUCCESS = 'Organisation created successfully';
+exports.ORGANISATION_NOT_FOUND = 'Organisation does not exist';
+exports.UPDATE_ORGANISATION_SUCCESSFUL = 'Organisation updated successfully';
+exports.PROJECT_TEMPLATE_NOT_FOUND = 'Project template not found';
+exports.PROJECT_TEMPLATE_CREATE_SUCCESS = 'Project template created successfully';
+exports.PROJECT_TEMPLATE_UPDATE_SUCCESS = 'Project template updated successfully';
